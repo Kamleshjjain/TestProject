@@ -12,6 +12,11 @@ public class Sorted_Maps_Ex {
 	public static void main(String[] args) 
 	{
 		// Hashmap store the data in random order in table
+		
+		
+		
+		
+		
 		Map<Integer, String> hmp = new HashMap<Integer,String>();
 
 		// Linked hash map store the data in the table in the way it is inserted 
